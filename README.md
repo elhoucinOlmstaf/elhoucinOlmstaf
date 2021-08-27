@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhoucinolmstaf" alt="elhoucinolmstaf" /></a> </p>
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
 - 🔭 I’m currently working on [Kids_Zoo](https://github.com/elhoucinOlmstaf/Kids_ZOO.git)
 
 - 🌱 I’m currently learning **React , typescript**
@@ -21,7 +24,6 @@
 
 ### Talk with me, I am kinda awesome:
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
