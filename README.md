@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Kids_Zoo](https://github.com/elhoucinOlmstaf/Kids_ZOO.git)
+- 🔭 I’m currently working on [FrenchAPp](https://github.com/elhoucinOlmstaf/FrenchApp)
 
 - 🌱 I’m currently learning **React , typescript**
 
